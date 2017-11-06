@@ -5,6 +5,9 @@
 # How to use
 最好用最新版本：到tag那去查询
 
+![tag](images/tag.png)
+
+
 ```
 
 compile 'com.github.xieyang94:xyutils:0.0.1'
