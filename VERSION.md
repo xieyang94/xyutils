@@ -6,6 +6,9 @@
 ## v0.0.2
 * 1、TextChange封装TextWatcher进行封装，前面不用的两个方法干脆不用，省几行代码，只针对简单用法
 
+## v0.0.3
+* 1、ActivityController对Activity做finish()操作，主要是一次性finish()
+
 
 
 
