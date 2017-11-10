@@ -10,7 +10,7 @@
 
 ```
 
-compile 'com.github.xieyang94:xyutils:0.0.3'
+compile 'com.github.xieyang94:xyutils:0.0.4'
 
 ```
 

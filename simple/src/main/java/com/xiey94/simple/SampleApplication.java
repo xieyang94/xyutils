@@ -2,7 +2,7 @@ package com.xiey94.simple;
 
 import android.app.Application;
 
-import com.xiey94.xyutils.XyUtilsApplication;
+import com.xiey94.xyutils.XyUtils;
 
 /**
  * @author xiey
@@ -17,6 +17,6 @@ public class SampleApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        XyUtilsApplication.initialize(getApplicationContext());
+        XyUtils.initialize(getApplicationContext());
     }
 }

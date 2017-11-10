@@ -9,6 +9,13 @@
 ## v0.0.3
 * 1、ActivityController对Activity做finish()操作，主要是一次性finish()
 
+## v0.0.4
+* 1、ImageLoader通过对Glide得的封装，进行图片加载，使用之前要设置当前Application为XyUtilsApplication，  
+或者在自定义Application中初始化：  
 
+```
+XyUtils.initialize(getApplicationContext());
+
+```
 
 
