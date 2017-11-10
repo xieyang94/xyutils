@@ -9,6 +9,7 @@
 ## v0.0.3
 * 1、ActivityController对Activity做finish()操作，主要是一次性finish()
 
+##***v0.0.3以后进行版本的不同迭代，master可加入第三方框架进行补充，nt只用于原生代码进行扩充(偶数有第三方框架，奇数没有做区别)***
 
 
 
