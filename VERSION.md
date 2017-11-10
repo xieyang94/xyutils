@@ -9,6 +9,8 @@
 ## v0.0.3
 * 1、ActivityController对Activity做finish()操作，主要是一次性finish()
 
+##***v0.0.3以后进行版本的不同迭代，master可加入第三方框架进行补充，nt只用于原生代码进行扩充(偶数有第三方框架，奇数没有做区别)***
+
 ## v0.0.4
 * 1、ImageLoader通过对Glide得的封装，进行图片加载，使用之前要设置当前Application为XyUtilsApplication，  
 或者在自定义Application中初始化：  
